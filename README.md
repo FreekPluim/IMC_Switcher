@@ -19,3 +19,5 @@ The program is a very simple world subsystem.
 3. From this call the function "Set Active IMC"
 4. As new IMC Set the one you want to activate. All other subsystems will be deactivated.
 
+[alt text](http://url/to/img.png)
+
