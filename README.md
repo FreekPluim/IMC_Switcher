@@ -8,7 +8,7 @@ IMPORTANT: No optimisation has been done to this code. Its purely functional. Us
 
 1. Download the IMCSwitcher folder from this repo or fork the repo.
 2. Put the downloaded folder in the plugins folder of your Unreal Engine Project.
-3. Open "<YourProject>.build.cs" and add "IMCSwitcher" to the "PrivateDependencyModuleNames".
+3. Open "YourProject.build.cs" and add "IMCSwitcher" to the "PrivateDependencyModuleNames".
 ![alt text](https://github.com/FreekPluim/IMC_Switcher/blob/main/Images/PrivateDependency.png?raw=true)
 4. Build your solution file and enjoy
 
