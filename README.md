@@ -15,7 +15,7 @@ IMPORTANT: No optimisation has been done to this code. Its purely functional. Us
 ### How to use
 The program is a very simple world subsystem.
 
-1. create a new node and search for IMC Switcher.
+1. Create a new node and search for IMC Switcher.
 2. Get the IMCSwitcherSubsystem_P
 3. From this call the function "Set Active IMC"
 4. As new IMC Set the one you want to activate. All other subsystems will be deactivated.
