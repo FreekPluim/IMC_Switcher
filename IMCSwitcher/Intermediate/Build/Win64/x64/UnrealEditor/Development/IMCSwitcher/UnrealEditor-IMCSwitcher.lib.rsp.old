@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-IMCSwitcher.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Student\Desktop\Tweeduuster\Tweeduuster_UE\Intermediate\Build\Win64\x64\Tweeduuster_UEEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\Student\Desktop\Tweeduuster\Tweeduuster_UE\Plugins\IMCSwitcher\Intermediate\Build\Win64\x64\UnrealEditor\Development\IMCSwitcher\Module.IMCSwitcher.cpp.obj"
+"C:\Users\Student\Desktop\Tweeduuster\Tweeduuster_UE\Plugins\IMCSwitcher\Intermediate\Build\Win64\x64\UnrealEditor\Development\IMCSwitcher\Default.rc2.res"
+/OUT:"C:\Users\Student\Desktop\Tweeduuster\Tweeduuster_UE\Plugins\IMCSwitcher\Intermediate\Build\Win64\x64\UnrealEditor\Development\IMCSwitcher\UnrealEditor-IMCSwitcher.lib"

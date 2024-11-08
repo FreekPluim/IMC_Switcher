@@ -1,0 +1,1 @@
+#include "C:/Users/Student/Desktop/Tweeduuster/Tweeduuster_UE/Plugins/IMCSwitcher/Source/IMCSwitcher/Public/IMCSwitcher.h"

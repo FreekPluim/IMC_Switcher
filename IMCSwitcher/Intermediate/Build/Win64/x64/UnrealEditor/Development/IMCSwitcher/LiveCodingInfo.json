@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.IMCSwitcher.cpp.obj": [
+			"IMCSwitcher.init.gen.cpp.obj",
+			"IMCSwitcherSubsystem_P.gen.cpp.obj",
+			"IMCSwitcher.cpp.obj",
+			"IMCSwitcherSubsystem_P.cpp.obj"
+		]
+	}
+}
