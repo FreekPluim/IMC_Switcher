@@ -1,17 +1,17 @@
-##IMC Switcher (Only tested with UE 5.4)
+## IMC Switcher (Only tested with UE 5.4)
 
 This is a very simple plugin with which you can set a specific Input mapping context to active while removing all others in Unreal Engine 5.
 
 IMPORTANT: No optimisation has been done to this code. Its purely functional. Use at your own risk.
 
-###How To install
+### How To install
 
 1. Download the IMCSwitcher folder from this repo or fork the repo.
 2. Put the downloaded folder in the plugins folder of your Unreal Engine Project.
 3. Open "<YourProject>.build.cs" and add "IMCSwitcher" to the "PrivateDependencyModuleNames".
 4. Build your solution file and enjoy
 
-###How to use
+### How to use
 The program is a very simple world subsystem.
 
 1. create a new node and search for IMC Switcher.
